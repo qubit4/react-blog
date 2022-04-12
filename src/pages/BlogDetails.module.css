@@ -1,0 +1,13 @@
+.details {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    font-weight: bolder;
+  }
+
+.details h2 {
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.5rem;
+    color: #edf5e1;
+    }

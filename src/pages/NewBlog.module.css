@@ -1,0 +1,34 @@
+.addnew {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    color: #d1d7e0;
+    font-weight: bold;
+  }
+  .addnew label {
+    text-align: left;
+    display: block;
+  }
+  .addnew h2 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: #d1d7e0;
+  }
+  .addnew input {
+    width: 100%;
+    padding: 6px 10px;
+    margin: 10px 0;
+    border: 2px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+  }
+  .addnew button {
+    background: #802BB1;
+    color: #fff;
+    border: 0;
+    padding: 16px;
+    border-radius: 15px;
+    cursor: pointer;
+    
+  }

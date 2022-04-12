@@ -1,0 +1,17 @@
+.not_found {
+    font-size: larger;
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    
+}
+
+.link {
+    color: #d1d7e0;
+}
+
+.link:hover {
+     color: #00F
+}
