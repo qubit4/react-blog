@@ -1,0 +1,23 @@
+.home {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    font-weight: bolder;
+    font-size: larger;
+  }
+.home button {
+    color: #802bb1;
+    text-align: center;
+  }
+.h5 {
+    font-weight: lighter;
+  }
+.link {
+    color: #802bb1;
+  }
+.link:hover {
+     color: #00F
+  }
+.home p {
+font-size: medium;
+}
