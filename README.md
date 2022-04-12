@@ -1,2 +1,2 @@
 
-blog in React with posts and users from JSONPlaceholder
+blog in React with posts, users and comments from JSONPlaceholder
